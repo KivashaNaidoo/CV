@@ -1,0 +1,9 @@
+body {background-color: #ffd5d5;}
+
+hr {border-style: none ;
+    border-top-style: dotted;
+    border-top-width: thick;
+    border-color: silver;
+    width: 4%;}
+h1 {color: #d63447}
+h3 {color: #ed6663}
